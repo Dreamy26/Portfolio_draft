@@ -1,14 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap');
 * {
   scroll-behavior: smooth;
 }
 
 body {
-  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',
-    Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-family: 'Poppins';
   font-weight: 300;
   font-size: 16px;
   margin: 0;
   padding: 0;
+  background: #4361EE;
 }
 
 a {
@@ -23,11 +25,11 @@ img {
 
 nav {
   width: 100%;
-  background: #108db8;
+  background: #4361EE;
 }
 
 nav a {
-  color: white;
+  color: black;
   padding: 1rem;
   display: inline-block;
 }

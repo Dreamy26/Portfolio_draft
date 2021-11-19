@@ -1,7 +1,10 @@
-import React from 'react'
+import React from "react";
 
 export default () => (
   <div>
-    <p>React Static is a progressive static site generator for React.</p>
+    <h1>DREAMY</h1>
   </div>
-)
+);
+const cardStyle = {
+  backgroundColor: "#fff",
+};
